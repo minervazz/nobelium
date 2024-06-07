@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'ASPHODEL',
   author: 'Minerva Zhang',
-  email: 'minervazhang@gmail.com',
+  email: 'minervazhang1117@gmail.com',
   link: 'https://minervazhang.com',
   description: 'This is a shitty website where I dump in various thoughts.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
