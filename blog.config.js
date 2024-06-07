@@ -3,7 +3,7 @@ const BLOG = {
   author: 'Minerva Zhang',
   email: 'minervazhang@gmail.com',
   link: 'https://minervazhang.com',
-  description: 'This is a shitty website that I dump in various thoughts.',
+  description: 'This is a shitty website where I dump in various thoughts.',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
